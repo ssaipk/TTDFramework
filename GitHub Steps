@@ -1,0 +1,12 @@
+GitHub Steps:
+One time activity
+1: Create repository in github
+2: git init (To initialize local repository)
+3: git remote add origin <url> (Link remote to local repository)
+
+Git Commands-
+
+git add . (Move files from untracked to Tracked area)
+git status (check current status of code)
+git commit -m "Message" (To commit the changes)
+git push origin master (To push code from local to remote server)
